@@ -9,7 +9,7 @@ namespace robotargensearch
         {
             Console.WriteLine("Hello World!");
 
-            for (int i = 31000000; i < 31000010; i++)
+            for (int i = 31688636; i < 31688670; i++)
             {
                 Console.WriteLine("DNI: " + i);
 
